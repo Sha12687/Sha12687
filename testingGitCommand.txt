@@ -1,2 +1,3 @@
 my name is shashant chaudhary
 trying to learn git revert command
+i am trying to revert here guys
